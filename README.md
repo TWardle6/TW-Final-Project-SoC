@@ -20,7 +20,7 @@ Hackafun is the culmination of a 4-week intensive project undertaken as part of 
 
 ## 🎥 Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N7_c9hTpu0M?si=rtFi-JgQ25fZiTnA" title="Hackafun App Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/N7_c9hTpu0M)](https://youtu.be/N7_c9hTpu0M)
 
 ## 💻 Tech Stack
 
